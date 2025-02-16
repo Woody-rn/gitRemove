@@ -1,4 +1,0 @@
-my first file
-amend
-hello
-my changes from local
